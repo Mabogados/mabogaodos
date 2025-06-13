@@ -74,12 +74,11 @@
       <li>✅ Detenemos embargos y juicios</li>
       <li>✅ Aplicamos la Ley 20.720 para personas naturales</li>
     </ul>
-    <a class="boton-contacto" href="mailto:monabogados@outlook.com">Agenda tu consulta</a>
+    <a class="boton-contacto" href="mailto:monabogados@outlook.cl">Agenda tu consulta</a>
   </section>
 
   <footer>
-    &copy; 2025 M Abogados | monabogados@outlook.com
+    &copy; 2025 M Abogados | monabogados@outlook.cl
   </footer>
 </body>
 </html>
-
